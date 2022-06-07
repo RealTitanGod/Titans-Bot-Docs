@@ -1,5 +1,5 @@
 # Privacy Policy
-### Updated: March 13, 2022
+### Updated: June 7, 2022
 ---
 
 ## By using [KnD Bot](https://discord.com/api/oauth2/authorize?client_id=776559492413784114&permissions=517544070208&scope=bot%20applications.commands) you accept to following policy.
@@ -36,6 +36,14 @@ No usage of data outside of the aformentioned cases will happen and the data is 
     - `element2` with a string value.
     - `gold` with a numeral value.
     - `gems` with a numeral value.
+    - `tsChat` with a numeral value of the timestamp for when xp was given for sending a message.
+    - `tsFight` with a numeral value of the timestamp for when a fight was last initiated.
+    - `tsOpp` with a numeral value of the timestamp for when a fight was last initiated.
+    - `tsUpgrade` with a numeral value of the timestamp for when a upgrade was last complete.
+    - `tsStage` with a numeral value of the timestamp for when a stage was last complete.
+    - `tsShield` with a numeral value of the timestamp for when a shield was last activated.
+    - `tsXPBoost20` with a numeral value of the timestamp for when a xp boost was last activated.
+    - `tsRaid` with a numeral value of the timestamp for when a raid battle was last initiated.
 
 - No other information outside of the above mentioned one will be stored.
 
