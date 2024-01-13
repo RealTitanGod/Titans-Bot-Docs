@@ -1,5 +1,5 @@
 # Terms of Service
-### Updated: March 13, 2022
+### Updated: January 13, 2024
 ---
 
 ## By using [KnD Bot](https://discord.com/api/oauth2/authorize?client_id=776559492413784114&permissions=517544070208&scope=bot%20applications.commands) you agree to the following terms.
@@ -9,7 +9,7 @@
 
 - By inviting the bot and using its features (commands, xp system) you are agreeing to the below mentioned Terms and Privacy Policy (Policy) of the bot.
 
-- You acknowledge that you have the priviledge to use this bot freely on any Discord Server (Server) you share with it, that you can invite it to any Server that you have "Manage Server" rights for and that this priviledge might get revoked for you, if you are subject of breaking the terms and/or policy of this bot, or the [Terms of Service](https://discord.com/terms), [Privacy Policy](https://discord.com/privacy) and/or [Community Guidelines](https://discord.com/guidelines) of [Discord Inc](https://discord.com/).
+- You acknowledge that you have the privilege to use this bot freely on any Discord Server (Server) you share with it, that you can invite it to any Server that you have "Manage Server" rights for and that this privilege might get revoked for you, if you are subject of breaking the terms and/or policy of this bot, or the [Terms of Service](https://discord.com/terms), [Privacy Policy](https://discord.com/privacy) and/or [Community Guidelines](https://discord.com/guidelines) of [Discord Inc](https://discord.com/).
 
 - Through Inviting the bot it may collect specific data as described in its Policy.
 The intended usage of this data is for core functionalities of the bot such as command handling, guild-specific settings and the XP System.

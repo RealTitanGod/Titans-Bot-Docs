@@ -1,5 +1,5 @@
 # Privacy Policy
-### Updated: June 7, 2022
+### Updated: January 13, 2024
 ---
 
 ## By using [KnD Bot](https://discord.com/api/oauth2/authorize?client_id=776559492413784114&permissions=517544070208&scope=bot%20applications.commands) you accept to following policy.
@@ -8,7 +8,7 @@
 ### Usage of Data
 
 - The bot may use stored data, as defined below, for different features including but not limited to: XP System (when enabled) and command handling.
-No usage of data outside of the aformentioned cases will happen and the data is not shared with any 3rd-party site or service.
+No usage of data outside of the aforementioned cases will happen and the data is not shared with any 3rd-party site or service.
 
 ### Stored Information
 
@@ -22,7 +22,9 @@ No usage of data outside of the aformentioned cases will happen and the data is 
 
 - The bot may store the following information automatically when being used in a Discord Server:
     - `logChannelID` with the provided Channel ID as value.
+    - `redditChannelID` with the provided Channel ID as value.
     - `prefix` with the provided prefix as value.
+    - `knightFightOptOut` with a boolean value.
     - `xp` with a numeral value.
     - `attack` with a numeral value.
     - `defense` with a numeral value.
@@ -45,6 +47,32 @@ No usage of data outside of the aformentioned cases will happen and the data is 
     - `tsXPBoost20` with a numeral value of the timestamp for when a xp boost was last activated.
     - `tsRaid` with a numeral value of the timestamp for when a raid battle was last initiated.
 
+- The bot may store the following information when the RaidCalc feature is used in Discord:
+	- `userID` with the User's ID as value.
+	- `k1_att` with a numeral value.
+	- `k1_def` with a numeral value.
+	- `k1_hea` with a numeral value.
+	- `k1_adv` with a numeral value.
+	- `k1_wea` with a numeral value.
+	- `k1_stu` with a numeral value.
+	- `k2_att` with a numeral value.
+	- `k2_def` with a numeral value.
+	- `k2_hea` with a numeral value.
+	- `k2_adv` with a numeral value.
+	- `k2_wea` with a numeral value.
+	- `k2_stu` with a numeral value.
+	- `k3_att` with a numeral value.
+	- `k3_def` with a numeral value.
+	- `k3_hea` with a numeral value.
+	- `k3_adv` with a numeral value.
+	- `k3_wea` with a numeral value.
+	- `k3_stu` with a numeral value.
+	- `p_att` with a numeral value.
+	- `p_ss` with a numeral value.
+	- `p_drs` with a numeral value.
+	- `p_adv` with a numeral value.
+	- `r_min` with a numeral value.
+
 - No other information outside of the above mentioned one will be stored.
 
 ### Updating Data
@@ -54,9 +82,9 @@ Updating data will require the input of an end user, and data that can be seen a
 
 - No other actions may update the stored information at any given time.
 
-### Temporarely Stored Information
+### Temporarily Stored Information
 
-- The Bot may keep the stored information in an internal cacheing mechanic for a certain amount of time.
+- The Bot may keep the stored information in an internal caching mechanic for a certain amount of time.
 
 - After this time period, the cached information will be dropped and only be re-added when required.
 
